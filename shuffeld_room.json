@@ -1,0 +1,250 @@
+{
+    "1": [
+        {
+            "name": "deepa",
+            "room_no": 1,
+            "bed_no": 7,
+            "bed_position": "down"
+        },
+        {
+            "name": "pinky",
+            "room_no": 1,
+            "bed_no": 8,
+            "bed_position": "upper"
+        },
+        {
+            "name": "Jyoti",
+            "room_no": 1,
+            "bed_no": 3,
+            "bed_position": "down"
+        },
+        {
+            "name": "rajitha",
+            "room_no": 1,
+            "bed_no": 5,
+            "bed_position": "down"
+        },
+        {
+            "name": "rani",
+            "room_no": 1,
+            "bed_no": 6,
+            "bed_position": "upper"
+        },
+        {
+            "name": "Shireen",
+            "room_no": 1,
+            "bed_no": 9,
+            "bed_position": "down"
+        },
+        {
+            "name": "antima",
+            "room_no": 1,
+            "bed_no": 1,
+            "bed_position": "down"
+        },
+        {
+            "name": "shubham",
+            "room_no": 1,
+            "bed_no": 10,
+            "bed_position": "upper"
+        },
+        {
+            "name": "priti",
+            "room_no": 1,
+            "bed_no": 2,
+            "bed_position": "upper"
+        },
+        {
+            "name": "Pragna",
+            "room_no": 1,
+            "bed_no": 4,
+            "bed_position": "upper"
+        }
+    ],
+    "2": [
+        {
+            "name": "suman",
+            "room_no": 2,
+            "bed_no": 1,
+            "bed_position": "down"
+        },
+        {
+            "name": "shailja",
+            "room_no": 2,
+            "bed_no": 2,
+            "bed_position": "upper"
+        },
+        {
+            "name": "komal",
+            "room_no": 2,
+            "bed_no": 9,
+            "bed_position": "down"
+        },
+        {
+            "name": "pragya",
+            "room_no": 2,
+            "bed_no": 6,
+            "bed_position": "upper"
+        },
+        {
+            "name": "dilisha",
+            "room_no": 2,
+            "bed_no": 8,
+            "bed_position": "upper"
+        },
+        {
+            "name": "Rupali",
+            "room_no": 2,
+            "bed_no": 10,
+            "bed_position": "upper"
+        },
+        {
+            "name": "ragini",
+            "room_no": 2,
+            "bed_no": 4,
+            "bed_position": "upper"
+        },
+        {
+            "name": "Poonam",
+            "room_no": 2,
+            "bed_no": 7,
+            "bed_position": "down"
+        },
+        {
+            "name": "muskan",
+            "room_no": 2,
+            "bed_no": 5,
+            "bed_position": "down"
+        },
+        {
+            "name": "pooja",
+            "room_no": 2,
+            "bed_no": 3,
+            "bed_position": "down"
+        }
+    ],
+    "3": [
+        {
+            "name": "himani",
+            "room_no": 3,
+            "bed_no": 6,
+            "bed_position": "upper"
+        },
+        {
+            "name": "sapna",
+            "room_no": 3,
+            "bed_no": 4,
+            "bed_position": "upper"
+        },
+        {
+            "name": "rabiya",
+            "room_no": 3,
+            "bed_no": 8,
+            "bed_position": "upper"
+        },
+        {
+            "name": "Manjula",
+            "room_no": 3,
+            "bed_no": 5,
+            "bed_position": "down"
+        },
+        {
+            "name": "kamini",
+            "room_no": 3,
+            "bed_no": 10,
+            "bed_position": "upper"
+        },
+        {
+            "name": "gulnaaz",
+            "room_no": 3,
+            "bed_no": 7,
+            "bed_position": "down"
+        },
+        {
+            "name": "pragti",
+            "room_no": 3,
+            "bed_no": 9,
+            "bed_position": "down"
+        },
+        {
+            "name": "aradhna",
+            "room_no": 3,
+            "bed_no": 2,
+            "bed_position": "upper"
+        },
+        {
+            "name": "Navya",
+            "room_no": 3,
+            "bed_no": 3,
+            "bed_position": "down"
+        },
+        {
+            "name": "santi",
+            "room_no": 3,
+            "bed_no": 1,
+            "bed_position": "down"
+        }
+    ],
+    "4": [
+        {
+            "name": "kittty",
+            "room_no": 4,
+            "bed_no": 9,
+            "bed_position": "down"
+        },
+        {
+            "name": "mohini",
+            "room_no": 4,
+            "bed_no": 3,
+            "bed_position": "down"
+        },
+        {
+            "name": "bhumi",
+            "room_no": 4,
+            "bed_no": 7,
+            "bed_position": "down"
+        },
+        {
+            "name": "pranajli",
+            "room_no": 4,
+            "bed_no": 4,
+            "bed_position": "upper"
+        },
+        {
+            "name": "satya",
+            "room_no": 4,
+            "bed_no": 5,
+            "bed_position": "down"
+        },
+        {
+            "name": "anjali",
+            "room_no": 4,
+            "bed_no": 1,
+            "bed_position": "down"
+        },
+        {
+            "name": "kiran",
+            "room_no": 4,
+            "bed_no": 6,
+            "bed_position": "upper"
+        },
+        {
+            "name": "veda",
+            "room_no": 4,
+            "bed_no": 10,
+            "bed_position": "upper"
+        },
+        {
+            "name": "Pragna",
+            "room_no": 4,
+            "bed_no": 8,
+            "bed_position": "upper"
+        },
+        {
+            "name": "kumar",
+            "room_no": 4,
+            "bed_no": 2,
+            "bed_position": "upper"
+        }
+    ]
+}
